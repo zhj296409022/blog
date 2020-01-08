@@ -8,5 +8,5 @@ koa2 + react ssr + typescript
 
 ## 功能实现
 
-* [ ] react框架构建
+* [x] react框架构建
 * [ ] 页面首屏加载动画
